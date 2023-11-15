@@ -2,7 +2,7 @@
 Hangman Game
 ![Design preview](./start.png)
 ![Design preview](./finish.png)
-Description
+
 Hangman is a classic word-guessing game where players attempt to guess a word, letter by letter, before running out of attempts. In each round, players guess a letter, and if the letter is in the word, it's revealed; otherwise, the player loses a chance. The objective is to guess the word before the "hangman" drawing is completed.
 
 Technologies
